@@ -1,0 +1,71 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Stock Hawk</string>
+
+    <string name="action_example">Example action</string>
+
+    <!--MyStocksActivity Strings-->
+    <string name="service_intent_put_extra_key">tag</string>
+    <string name="service_intent_put_extra_key2">symbol</string>
+    <string name="service_intent_put_extra_value">init</string>
+    <string name="service_intent_put_extra_value2">add</string>
+
+    <string name="stock_saved">This stock is already saved!</string>
+    <string name="stock_name_key_intent" translatable="false">StockName</string>
+    <string name="stock_value_key_intent" translatable="false">StockValue</string>
+    <string name="stock_percent_key_intent" translatable="false">StockPercent</string>
+    <string name="stock_value_change_key_intent" translatable="false">StockValueChange</string>
+    <string name="string_tag_periodic" translatable="false">periodic</string>
+    <string name="action_data_updated" translatable="false">com.sam_chordas.android.stockhawk.app.ACTION_DATA_UPDATED</string>
+
+
+    <!--StockIntentService Class Strings-->
+    <string name="stock_not_exist_string">Stock Does not exist </string>
+    <string name="stock_intent_service_name">Stock Intent Service</string>
+
+
+    <!--DetailActivity Strings-->
+    <string name="stock_last_year"> Over last year</string>
+    <string name="dollar_sign"> $</string>
+    <string name="stock_value_last_year">Stock Values Over Last Year</string>
+
+    <string name="query_initial_string">q=select%20*%20from%20yahoo.finance.historicaldata%20where%20symbol%20%3D%20%22</string>
+    <string name="query_end_string">%22%0A&amp;format=json&amp;diagnostics=true&amp;
+        env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys&amp;callback=  </string>
+    <string name="query_base">https://query.yahooapis.com/v1/public/yql?</string>
+    <string name="error_parsing_json">Error Parsing JSON Stock Result</string>
+    <string name="graph_filling_error">Graph Filling Error</string>
+    <string name="fetch_error">Fetch Error</string>
+
+
+    <!--list_item_quote Strings-->
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search" translatable="false">Symbol Search</string>
+    <string name="content_test" translatable="false">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast" translatable="false">Uh-oh! This app requires an internet connection</string>
+    <string name="empty_forecast_list">No Stock Information Available</string>
+
+
+    <!--Content Descriptions of various TextViews of all Layouts-->
+    <string name="add_stock">Add Stock Floating Action</string>
+    <string name="stock_symbol_content_description">Stock Symbol</string>
+    <string name="stock_price_content_description">Stock Price </string>
+    <string name="stock_percent_change_content_description">Stock Percent Change</string>
+    <string name="stock_price_change_content_description">Stock Price Change</string>
+    <string name="stock_graph_content_description">Historical Data On Graph</string>
+    <string name="stocks_content_description">List of Stock for watch</string>
+
+
+    <!--TextView %Should not change-->
+    <string name="string_percent_change">
+        <xliff:g id="percent">10%</xliff:g>
+    </string>
+
+
+    <!--activity_dtail Strings-->
+    <string name="stock_symbol_text">GOOG</string>
+    <string name="stock_value_text">1000</string>
+    <string name="stock_symbol_change">100.00</string>
+</resources>

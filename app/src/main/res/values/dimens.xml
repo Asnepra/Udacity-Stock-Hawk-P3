@@ -1,0 +1,46 @@
+<resources>
+
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+
+
+    <dimen name="activity_horizontal_margin_rtl">8dp</dimen>
+    <dimen name="activity_vertical_margin_rtl">8dp</dimen>
+
+
+    <dimen name="widget_resize_height">100dp</dimen>
+    <dimen name="widget_resize_width">40dp</dimen>
+
+
+    <!--Dimens Text Padding-->
+    <dimen name="text_padding_top">3dp</dimen>
+    <dimen name="text_padding_bottom">3dp</dimen>
+    <dimen name="text_padding_left">3dp</dimen>
+    <dimen name="text_padding_right">3dp</dimen>
+
+
+    <!--Dimens Text Margin-->
+    <dimen name="text_margin_top">3dp</dimen>
+    <dimen name="text_margin_bottom">3dp</dimen>
+    <dimen name="text_margin_left">3dp</dimen>
+    <dimen name="text_margin_right">3dp</dimen>
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <!--widget Height and width dimens-->
+
+    <dimen name="widget_default_height">110dp</dimen>
+    <dimen name="widget_default_width">180dp</dimen>
+    <dimen name="padding_start_percent_rtl">3dp</dimen>
+    <dimen name="padding_end_percent_rtl">3dp</dimen>
+    <dimen name="padding_left_percent">3dp</dimen>
+    <dimen name="padding_left_percen">3dp</dimen>
+    <dimen name="padding_end_value_rtl">10dp</dimen>
+    <dimen name="padding_right_value">10dp</dimen>
+    <dimen name="layout_start_rtl_padding">16dp</dimen>
+    <dimen name="layout_end_rtl_padding">16dp</dimen>
+    <dimen name="layout_left_padding">16dp</dimen>
+    <dimen name="layout_rightl_padding">16dp</dimen>
+</resources>
