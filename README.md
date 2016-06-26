@@ -1,4 +1,5 @@
 # Udacity-Stock-Hawk-P3
+<img src=https://cloud.githubusercontent.com/assets/11665250/16363184/5b42cfde-3be0-11e6-8918-bc5a854b50b6.png width="250" height="350">
 
 ## Created By Sam Chordas
 
