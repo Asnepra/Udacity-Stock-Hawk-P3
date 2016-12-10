@@ -1,6 +1,8 @@
 # Udacity-Stock-Hawk-P3
-<img src=../master/Screen/Stock%20Main.png width=450 height=500 />
-<img src=../master/Screen/Stock%20detail.png width=450 height=500 />
+
+
+<img src=../master/Screen/Stock%20Main.png width=450 height=600 />   <img src=../master/Screen/Stock%20detail.png width=450 height=600 />
+
 
 
 ## Created By Sam Chordas
